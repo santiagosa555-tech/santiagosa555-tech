@@ -1,39 +1,23 @@
 # Repositorio de Santiago Sabogal
 
-<div align="center">
-  <img width="1584" height="396" alt="Banner para Linkedin" src="https://github.com/user-attachments/assets/895374f7-43ed-429d-bc75-8d796ea9a6b7" />
-</div>
-
 ### Sobre mí
-- Actualmente estoy trabajando en **[Tu proyecto actual o área de enfoque]**
-- Estoy aprendiendo constantemente sobre **[Tecnología o concepto que estés estudiando]**
-- Pregúntame sobre **[Tus temas favoritos de desarrollo o hobbies]**
-- Dato curioso: **[Algo divertido sobre ti, ej: "Café dependiente" o un pasatiempo]**
+- Actualmente estoy trabajando en tableros dinámicos y aprendizaje automático.
+- Estoy aprendiendo constantemente sobre teoría de conjuntos y combinatoria.
+- Estoy interesado en colaborar sobre temas de combinatoria, topología y algebra abstracta.
 
 ---
 
 ### Tecnologías y herramientas
 
 #### Lenguajes
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![HTML5](https://shields.io)
-
-#### Frameworks y Librerías
-![React](https://shields.io)
-![NodeJS](https://shields.io)
-
-#### Herramientas
-![Git](https://shields.io)
-![Docker](https://shields.io)
+Python
 
 ---
 
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img src="[https://santiagosa555-tech](https://github.com/santiagosa555-tech/)" alt="Estadísticas de GitHub" />
-  <img src="[https://santiagosa555-tech](https://github.com/santiagosa555-tech/)" alt="Lenguajes más usados" />
+  <img src="https://github.com/santiagosa555-tech/" alt="Estadísticas de GitHub" />
 </div>
 
 ---
