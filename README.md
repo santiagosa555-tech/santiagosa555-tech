@@ -14,12 +14,6 @@ Python
 
 ---
 
-### Estadísticas de GitHub
-
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=santiagosa555-tech)](https://github.com/santiagosa555-tech/github-readme-stats)
-
----
-
 ### Contacto
 - LinkedIn: [Santiago Sabogal](https://www.linkedin.com/in/santiago-sabogal-angel-4902b3210)
 - Portafolio: [tu-sitio-web.com](https://tu-sitio-web.com)
