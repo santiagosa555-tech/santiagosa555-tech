@@ -1,8 +1,10 @@
 # Repositorio de Santiago Sabogal
 
 <div align="center">
-  <img src="https://giphy.com" width="300" alt="Programando GIF">
+  <img src="https://giphy.com"<img width="1584" height="396" alt="Banner para Linkedin" src="https://github.com/user-attachments/assets/895374f7-43ed-429d-bc75-8d796ea9a6b7" />
+ width="300" alt="Programando GIF">
 </div>
+![Uploading Banner para Linkedin.png…]()
 
 ### Sobre mí
 - Actualmente estoy trabajando en **[Tu proyecto actual o área de enfoque]**
