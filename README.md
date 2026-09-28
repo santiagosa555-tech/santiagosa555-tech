@@ -17,7 +17,8 @@ Python
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github.com/santiagosa555-tech/" alt="Estadísticas de GitHub" />
+  <img src="https://vercel.app" alt="Estadísticas" />
+  <img src="https://vercel.app" alt="Lenguajes" />
 </div>
 
 ---
