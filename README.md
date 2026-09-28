@@ -1,16 +1,43 @@
-## Hi there 👋
+# Repositorio de Santiago Sabogal
 
-<!--
-**santiagosa555-tech/santiagosa555-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://giphy.com" width="300" alt="Programando GIF">
+</div>
 
-Here are some ideas to get you started:
+### Sobre mí
+- Actualmente estoy trabajando en **[Tu proyecto actual o área de enfoque]**
+- Estoy aprendiendo constantemente sobre **[Tecnología o concepto que estés estudiando]**
+- Pregúntame sobre **[Tus temas favoritos de desarrollo o hobbies]**
+- Dato curioso: **[Algo divertido sobre ti, ej: "Café dependiente" o un pasatiempo]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tecnologías y herramientas
+
+#### Lenguajes
+![JavaScript](https://shields.io)
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+
+#### Frameworks y Librerías
+![React](https://shields.io)
+![NodeJS](https://shields.io)
+
+#### Herramientas
+![Git](https://shields.io)
+![Docker](https://shields.io)
+
+---
+
+### Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://santiagosa555-tech" alt="Estadísticas de GitHub" />
+  <img src="https://santiagosa555-tech" alt="Lenguajes más usados" />
+</div>
+
+---
+
+### Contacto
+- LinkedIn: [[Tu Nombre](https://linkedin.com)]
+- Portafolio: [tu-sitio-web.com](https://tu-sitio-web.com)
