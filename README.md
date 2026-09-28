@@ -16,7 +16,7 @@ Python
 
 ### Estadísticas de GitHub
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=santiagosa555-tech&show_icons=true&theme=radical)
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=santiagosa555-tech)](https://github.com/santiagosa555-tech/github-readme-stats)
 
 ---
 
