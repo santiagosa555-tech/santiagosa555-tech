@@ -16,10 +16,7 @@ Python
 
 ### Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://vercel.app" alt="Estadísticas" />
-  <img src="https://vercel.app" alt="Lenguajes" />
-</div>
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=santiagosa555-tech&show_icons=true&theme=radical)
 
 ---
 
