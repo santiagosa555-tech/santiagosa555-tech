@@ -23,5 +23,5 @@ Python
 ---
 
 ### Contacto
-- LinkedIn: [[Santiago Sabogal](www.linkedin.com/in/santiago-sabogal-angel-4902b3210)]
+- LinkedIn: [Santiago Sabogal](https://www.linkedin.com/in/santiago-sabogal-angel-4902b3210)
 - Portafolio: [tu-sitio-web.com](https://tu-sitio-web.com)
