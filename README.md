@@ -32,8 +32,8 @@
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://santiagosa555-tech" alt="Estadísticas de GitHub" />
-  <img src="https://santiagosa555-tech" alt="Lenguajes más usados" />
+  <img src="[https://santiagosa555-tech](https://github.com/santiagosa555-tech/)" alt="Estadísticas de GitHub" />
+  <img src="[https://santiagosa555-tech](https://github.com/santiagosa555-tech/)" alt="Lenguajes más usados" />
 </div>
 
 ---
